@@ -39,25 +39,32 @@ Accept the applicable Microsoft notices and software license terms.
 </p>
 
 <p align="center">
-Choose the unallocated drive partition to allocate virtual storage for the OS install.
+Select "Custom: Install Windows only (advanced)" for a fresh operating system deployment.
   <img src="./assets/images/5.png" alt="Create new user"
        style="width:80%;height:80%;display:block;margin:0 auto;" />
 </p>
 
+
 <p align="center">
-Configure Out-of-Box Experience (OOBE) regional and basic localization settings.
+Choose the unallocated drive partition to allocate virtual storage for the OS install.
   <img src="./assets/images/6.png" alt="Create new user"
        style="width:80%;height:80%;display:block;margin:0 auto;" />
 </p>
 
 <p align="center">
-Reach the Windows 10 lock screen and verify the local account prompt.
+Configure Out-of-Box Experience (OOBE) regional and basic localization settings.
   <img src="./assets/images/7.png" alt="Create new user"
        style="width:80%;height:80%;display:block;margin:0 auto;" />
 </p>
 
 <p align="center">
-erify successful OS installation and access the clean Windows 10 desktop interface.   
+Reach the Windows 10 lock screen and verify the local account prompt.
   <img src="./assets/images/8.png" alt="Create new user"
+       style="width:80%;height:80%;display:block;margin:0 auto;" />
+</p>
+
+<p align="center">
+Verify successful OS installation and access the clean Windows 10 desktop interface.   
+  <img src="./assets/images/9.png" alt="Create new user"
        style="width:80%;height:80%;display:block;margin:0 auto;" />
 </p>
